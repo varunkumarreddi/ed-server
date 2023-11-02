@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ethereal-design-1998",
+  "private_key_id": "07ef7fadcff7cebc3a60622f8221a7b02e62e8e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjhYJuTXnus1xF\nePLgOHdDzCFXZ0o1F78N+ag9EGzuowDygnq3s/m6xzwNvBMPbWuEjt99qjtr9rLs\n8POOXdx+ZhC9eMp1BbkHYDKa6/NT8pAQ9U/WqwNKdqhN4QOObRFrg96GFjgDI+7o\ns9wSF11PvaogsT0vwzQzB6LzeWmuaHS2ai9/G4A2XoWquiY8k9a1oDTSS16k1F1w\nyGv63ZQ7DFFyrIod0weh0fuxTMHz7fZbKMESIvPVKqaFTCSnY1dte7indDva3o8F\numOkPwenwDUxV1UFfBzwwqR2NlOe50pk4TbVUDGG3aGgC8o+Z/bsb32YTbY1vXmh\nmkHoO8+zAgMBAAECggEAB4leTbPUOL7+3n8PzjJzKFEex9UNcffjNybmrO5EipVd\n0M+RKmIh7v5tVu0pLC0wiqPZyq8LyBLdSyzUtcmizBdA2Zj1ghBa510fkNuyBXPs\nceulagoE3EEurcH/FIVM0pKH6gmD5rWYtoYQ+1XPrUlM6GCbwzk74o6pqFZwjQ3H\ndA83hQoR/zxuPpE8IubgH+mq6OlsbjekZd8O26nLzn1b+GRFv5/iuB7lJftpYeuS\n4giGPLv3V2jDuat8u8kNmo8gEBdGQioiNH/St+DdmnnrsRpTKAoFEMZCnemwzfiM\nItiCdYNNIiR4zyoy7H/QL8jvJuyOTvZtjH+q6+WRqQKBgQDPQivKcDpBEQ2r85fm\nCi1YKh9l4Xb8tqq42WjTovrjiBFsIjxvpIEVSgtRcgunp9RqTy4k/E1Rkwu00aoQ\nBOjDvF/VUX5/hDLZouF7pOu+hdbytebq9IohtGNluMB/RQizl+FTGo3uSYumZsB0\nv8qeoGlisW87yFFeWvfMaIyV/wKBgQDJ+jCzVDkyrhRoy/rgFdGjYhh29MGpLmO7\nKGv97ca6qCotTyL53yhoVjoHOMGYLuub5oy4GQANAV7MbiMFZM5wiv5EHUdl8DzN\nTHONSk9nGLQ8xgUfsD8UHTFyDD6mt4dqqI7Gho/nCcSBS6qDV9RiqVOEkAz1n4r4\nO3KfdcFOTQKBgQCp9dqRTQ0IdKKggsbq1yeuKATNeGIqBOXlZiwneXyCf//BjCXB\na8aLHchARuS13NQ9RadSnzAMmCg+ZL0wG8aBVQXFmenBSjik7oQ379t+xqSpLnAp\n9tUbpKDqNuJsu8DR/dfCXYFMijUiBRsH4ouXH3asf1L3VGMdnD2e+5FmIwKBgFTr\nDcK37Hx0WDxfVpEUW1mYCrUo3qtkx6WOryjJ6b3cqi72kLwBqRmE90zF/g8f2wtm\n+U8Fo9HT+6lzvOGtqmYC6jh1HumrAcVHGWYUEiJEbrMGhmz2Su8H/xv2LfkmPJcJ\nW034kVQP9UBvMbebG76HdofLkMdMVr9bLyv/9FAZAoGAV3VFqzFvnm91bEptqdHV\nx9Dt1Jim0G9k34mfN9DWoH0nqrt1WqozvQXwmqb6UCN1ow86t/wVTYQ7IUiuTXQH\n4+Ud6ox/kMUpdSuA4QNsvAWmmbdrGQ6EaivtxkqjdbRyNYsGbstM+uIA6PV95ypE\nNN/IDS5pJ2PlaM4P/vw3XPg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s00mm@ethereal-design-1998.iam.gserviceaccount.com",
+  "client_id": "103695923300452661433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s00mm%40ethereal-design-1998.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
